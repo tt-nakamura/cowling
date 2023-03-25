@@ -1,0 +1,16 @@
+Grav = 6.67384e-8 # gravitational const / cm^3/g/s^2
+Msun = 1.98892e33 # solar mass / g
+Rsun = 6.955e10 # solar radius / cm
+Lsun = 3.839e33 # solar luminosity / erg/s
+Psun = 2.477e17 # solar central pressure / dyne/cm^2
+Tsun = 1.571e7 # solar central temperature / K
+Tesun = 5783 # solar effective (surface) temperature / K
+c = 2.99792458e10 # speed of light  / cm/s
+hP = 6.6260688e-27 # Planck's const / J s
+pc = 3.08567758e18 # 1 parsec / cm
+a_rad = 7.56577e-15 # radiation density const / erg/cm^3/K^4
+stefan = 5.6704e-5 # Stefan-Boltzmann const / erg/cm^2/s/K^4
+kB = 1.3806488e-16 # Boltzmann const / erg/K
+mH = 1.66053892e-24 # atomic mass unit / g
+me = 9.1093898e-28 # electron mass / g
+eV = 1.60217733e-12 # electron volt / erg
